@@ -1,0 +1,5 @@
+print("enfant")
+print("apprendre GitHub")
+print("apprendre a coder")
+print(10+30)
+print(a+b)
